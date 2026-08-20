@@ -2,3 +2,10 @@
 An analysis of rail operations to understand passenger traffic, revenue performance, peak travel periods, and key operational trends using Power BI.
 # Project overview
 This project analyzes rail operations to better understand how passengers use the rail service and how different operational factors affect revenue and passenger movement. Using the available rail data, I explored passenger traffic patterns across different days and times of the day to identify when demand is highest. I also analyzed revenue across different routes, identified stations with the highest number of passengers, and examined the payment methods passengers use most often. The insights from this analysis can help rail operators better understand passenger behaviour, identify busy periods, monitor route performance, and support decisions that can improve planning and overall rail operations.
+# Business Questions
+This project was carried out to answer the following business questions:
+- What day has the highest passenger traffic?
+- What time of day experiences peak demand?
+- Which routes generate the highest revenue?
+- Which stations handle the most passengers?
+- What payment methods are most commonly used?
