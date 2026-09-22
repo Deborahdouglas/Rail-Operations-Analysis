@@ -30,15 +30,12 @@ A new column was added to categorize travel times into Morning, Afternoon, and N
 A Date Table was also created in Power BI to support date-based analysis and help organize the data for the dashboard.
 
 # Tools Used
-Microsoft Excel – Used to prepare the datasets and create the time-of-day category.
-Power BI – Used to create the data model, analyze the data, create measures, and build the interactive dashboard.
-DAX – Used to create calculated measures and support the analysis in Power BI.
+- Microsoft Excel – Used to prepare the datasets and create the time-of-day category.
+- Power BI – Used to create the data model, analyze the data, create measures, and build the interactive dashboard.
+- DAX – Used to create calculated measures and support the analysis in Power BI.
 
 # Key Findings
-The analysis covers a railway network of 10 routes and 25 stations, generating a total revenue of 2.29M from 641K passengers from 2024-2025
-
-Passenger traffic is fairly consistent across the week, with Tuesday recording the highest volume. Night hours drive the most travel demand, accounting for 213K passengers. University Station tops passenger count among all 25 stations at 25.98K.
-
-The Metro Rapid line leads in revenue at 360.92K, followed by Green Valley and Airport Line. When filtered by train type, Express trains generate the highest revenue and carry the most passengers compared to Intercity and Metro services.
-
-Payment methods are evenly distributed across Card, Cash, Contactless, and Mobile App each at approximately 25% - reflecting broad accessibility across passenger segments.
+- The analysis covers a railway network of 10 routes and 25 stations, generating a total revenue of 2.29M from 641K passengers from 2024-2025
+- Passenger traffic is fairly consistent across the week, with Tuesday recording the highest volume. Night hours drive the most travel demand, accounting for 213K passengers. University Station tops passenger count among all 25 stations at 25.98K.
+- The Metro Rapid line leads in revenue at 360.92K, followed by Green Valley and Airport Line. When filtered by train type, Express trains generate the highest revenue and carry the most passengers compared to Intercity and Metro services.
+- Payment methods are evenly distributed across Card, Cash, Contactless, and Mobile App each at approximately 25% - reflecting broad accessibility across passenger segments.
