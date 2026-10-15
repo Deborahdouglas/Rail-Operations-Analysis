@@ -1,0 +1,5 @@
+payment_id,payment_method
+1,Card
+2,Cash
+3,Mobile App
+4,Contactless
